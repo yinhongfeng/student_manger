@@ -1,0 +1,3 @@
+{'id': '1001', 'name': '¿Ó¿◊', 'english': 99, 'python': 89, 'c': 88}
+{'id': '1002', 'name': 'Õı√∑√∑', 'english': 88, 'python': 97, 'c': 83}
+{'id': '1003', 'name': '—Óµœ', 'english': 90, 'python': 100, 'c': 93}
